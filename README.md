@@ -14,6 +14,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://looker.com" target="_blank" rel="noreferrer"> <img src="![looker](https://github.com/StehCalandrine/Imagens/assets/141965525/504a0e70-7b80-4d9e-ad8a-ea7fe3e58a86)" width="40" height="40"/> </a>
+Looker | Power BI | Python | R | MySQL | Dbeaver | Rivery | Amazon AWS 
+</p>
+API Rest | GSuíte | Pacote Office
+
+
 
 
