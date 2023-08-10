@@ -14,4 +14,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" width="40" height="40"/> </a> <a </p> 
+<p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="/img/looker.png" alt="looker" width="40" height="40"/> </a> <a </p> 
